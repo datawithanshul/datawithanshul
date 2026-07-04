@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" width="100%" />
+</p>
+
 # 👋 Hello, I'm Anshul Saini!
 
 ### 📊 Aspiring Data Analyst | Power BI • SQL • Python • Excel
