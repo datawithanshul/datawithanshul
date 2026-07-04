@@ -2,7 +2,7 @@
   <img src="Banner.png" width="100%" />
 </p>
 
-# 👋 Hello, I'm Anshul Saini!
+## 🚀 About Me
 
 ### 📊 Aspiring Data Analyst | Power BI • SQL • Python • Excel
 
