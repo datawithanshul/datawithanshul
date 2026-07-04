@@ -96,8 +96,8 @@ Data analysis and automation projects built using Python, Pandas, NumPy, and Jup
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="LinkedIn Url:https://linkedin.com/in/anshullsaini" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/anshullsaini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sainianshul436@gmail.com">
