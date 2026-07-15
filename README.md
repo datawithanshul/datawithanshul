@@ -68,8 +68,7 @@ Currently, I'm strengthening my skills in Power BI, SQL, Python, Excel, and Data
 ### 📊 Business Insights 360
 An end-to-end Power BI dashboard providing actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive functions.
 
-🔗 **Repository:** https://github.com/datawithanshul/Business-Insights-360
-
+🔗 **Repository:** [Business Insights 360](https://github.com/datawithanshul/Business-Insights-360)
 ---
 
 ## 🗄️ SQL Projects
@@ -80,13 +79,19 @@ An end-to-end SQL Business Analysis project built using the AtliQ Hardware consu
 
 **Skills:** SQL • MySQL • CTEs • Window Functions • Joins • Aggregate Functions • Business Analysis • Data Analytics
 
-🔗 **Repository:** https://github.com/datawithanshul/consumer-goods-sql-analysis
+🔗 **Repository:** [Consumer Goods SQL Analysis](https://github.com/datawithanshul/consumer-goods-sql-analysis)
+
 ---
 
-### 📈 Advanced Excel Projects
-Interactive Excel dashboards, Pivot Tables, Power Query transformations, charts, and KPI reports for business analysis.
+## 📈 Advanced Excel Projects
 
-🚧 *Coming Soon*
+### 📊 Excel Business Analysis Dashboard
+
+An interactive Excel dashboard built using Advanced Excel features to analyze business performance. This project demonstrates data cleaning, Pivot Tables, Pivot Charts, Power Query, KPI reporting, and dashboard design for business decision-making.
+
+**Skills:** Advanced Excel • Pivot Tables • Pivot Charts • Power Query • Data Cleaning • Dashboard Design • Business Analysis • Data Visualization
+
+🔗 **Repository:** [Excel Business Analysis Dashboard](https://github.com/datawithanshul/Excel-Business-Analysis)
 
 ---
 
