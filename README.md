@@ -83,6 +83,7 @@ An end-to-end SQL Business Analysis project built using the AtliQ Hardware consu
 **Skills:** SQL • MySQL • CTEs • Window Functions • Joins • Aggregate Functions • Business Analysis • Data Analytics
 
 🔗 **Repository:** [View Repository](https://github.com/datawithanshul/consumer-goods-sql-analysis)
+
 ---
 
 ## 📈 Advanced Excel Projects
@@ -94,6 +95,7 @@ An Advanced Excel Sales Analytics project built to analyze customer performance,
 **Skills:** Advanced Excel • Pivot Tables • Pivot Charts • Power Query • Data Cleaning • Dashboard Design • Business Analysis • Data Visualization
 
 🔗 **Repository:** [View Repository](https://github.com/datawithanshul/Excel-Sales-Analytics)
+
 ---
 
 ### 🐍 Python Projects
