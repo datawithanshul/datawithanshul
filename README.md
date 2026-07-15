@@ -70,7 +70,7 @@ An end-to-end Power BI dashboard providing actionable insights across Finance, S
 
 **Skills:** Power BI • DAX • Power Query • SQL • Data Modeling • Dashboard Design • Business Analysis • Data Visualization
 
-🔗 **Repository:** [View Repository](https://github.com/datawithanshul/Business-Insights-360)
+🔗 ***Repository:*** [View Repository](https://github.com/datawithanshul/Business-Insights-360)
 ---
 
 ## 🗄️ SQL Projects
