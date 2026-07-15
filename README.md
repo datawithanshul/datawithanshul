@@ -72,11 +72,15 @@ An end-to-end Power BI dashboard providing actionable insights across Finance, S
 
 ---
 
-### 🗄️ SQL Projects
-A collection of SQL queries and business case studies covering data analysis, joins, window functions, CTEs, stored procedures, and performance optimization.
+## 🗄️ SQL Projects
 
-🚧 *Coming Soon*
+### 📊 Consumer Goods SQL Analysis
 
+An end-to-end SQL Business Analysis project built using the AtliQ Hardware consumer goods dataset. This project answers 10 real-world business requests from stakeholders using MySQL and demonstrates advanced SQL techniques, analytical thinking, and business reporting skills.
+
+**Skills:** SQL • MySQL • CTEs • Window Functions • Joins • Aggregate Functions • Business Analysis • Data Analytics
+
+🔗 **Repository:** https://github.com/datawithanshul/consumer-goods-sql-analysis
 ---
 
 ### 📈 Advanced Excel Projects
