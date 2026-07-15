@@ -80,7 +80,6 @@ An end-to-end SQL Business Analysis project built using the AtliQ Hardware consu
 **Skills:** SQL • MySQL • CTEs • Window Functions • Joins • Aggregate Functions • Business Analysis • Data Analytics
 
 🔗 **Repository:** [View Repository](https://github.com/datawithanshul/consumer-goods-sql-analysis)
-
 ---
 
 ## 📈 Advanced Excel Projects
